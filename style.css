@@ -1,0 +1,56 @@
+* {
+    font-family: 'Happy Monkey';
+}
+
+.container {
+    width: 800px;
+    padding-left: 50px;
+    padding-right: 50px;
+}
+
+p, li {
+    color: #707070;
+}
+
+li {
+    padding-bottom: 5px;
+    padding-top: 5px;
+}
+
+header {
+    text-align: center;
+}
+
+h1 {
+    color: #DB0038;
+}
+
+h2 {
+    color: #3998A3;
+}
+
+h3 {
+    color: #474747;
+}
+
+.hero {
+    background-color: #F4F4F4;
+    text-align:center;
+    box-shadow: 0 0 10px rgba(0,0,0,0.1);
+    padding-left: 50px;
+    padding-right: 50px;
+    border: 2px solid black;
+}
+
+img {
+    width: 100%;
+}
+
+.checked {
+    color: #F4B400;
+}
+
+footer {
+    position: relative;
+    left: 400px;
+}
