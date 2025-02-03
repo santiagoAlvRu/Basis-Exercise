@@ -50,6 +50,10 @@ img {
     color: #F4B400;
 }
 
+#empty-star {
+    color: wheat;
+}
+
 footer {
     position: relative;
     left: 400px;
